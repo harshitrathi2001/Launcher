@@ -21,7 +21,7 @@
               android:layout_width="match_parent"
               android:layout_height="match_parent">
 
-    <com.android.leanlauncher.SearchAutoCompleteTextView
+    <com.android.launcher.SearchAutoCompleteTextView
         android:id="@+id/et_search_apps"
         android:layout_width="match_parent"
         android:layout_height="@dimen/search_bar_autocomplete_height"

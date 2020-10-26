@@ -13,7 +13,7 @@
      See the License for the specific language governing permissions and
      limitations under the License.
 -->
-<com.android.leanlauncher.PageIndicatorMarker
+<com.android.launcher.PageIndicatorMarker
     xmlns:android="http://schemas.android.com/apk/res/android"
     android:layout_width="16dp"
     android:layout_height="16dp"
@@ -35,4 +35,4 @@
         android:scaleX="0.5"
         android:scaleY="0.5"
         />
-</com.android.leanlauncher.PageIndicatorMarker>
+</com.android.launcher.PageIndicatorMarker>

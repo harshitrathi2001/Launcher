@@ -15,7 +15,7 @@
 -->
 
 <!-- Full screen view projects under the status bar and contains the background -->
-<com.android.leanlauncher.LauncherRootView
+<com.android.launcher.LauncherRootView
     xmlns:android="http://schemas.android.com/apk/res/android"
 
     android:id="@+id/launcher"
@@ -24,13 +24,13 @@
     android:background="@drawable/workspace_bg"
     android:fitsSystemWindows="true">
 
-    <com.android.leanlauncher.DragLayer
+    <com.android.launcher.DragLayer
         android:id="@+id/drag_layer"
         android:layout_width="match_parent"
         android:layout_height="match_parent">
 
         <!-- The workspace contains 5 screens of cells -->
-        <com.android.leanlauncher.Workspace
+        <com.android.launcher.Workspace
             android:id="@+id/workspace"
             android:layout_width="match_parent"
             android:layout_height="match_parent"
@@ -56,6 +56,6 @@
             android:layout_width="match_parent"
             android:layout_height="match_parent"
             android:visibility="invisible" />
-    </com.android.leanlauncher.DragLayer>
+    </com.android.launcher.DragLayer>
 
-</com.android.leanlauncher.LauncherRootView>
+</com.android.launcher.LauncherRootView>
