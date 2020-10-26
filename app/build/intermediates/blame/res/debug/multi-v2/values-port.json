@@ -1,0 +1,36 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Launcher\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-port\\values-port.xml",
+            "map": [
+                {
+                    "source": "C:\\Launcher\\app\\src\\main\\res\\values-port\\dimens.xml",
+                    "from": {
+                        "startLines": "18,19",
+                        "startColumns": "4,4",
+                        "startOffsets": "721,789",
+                        "endColumns": "66,66",
+                        "endOffsets": "783,851"
+                    },
+                    "to": {
+                        "startLines": "3,4",
+                        "startColumns": "4,4",
+                        "startOffsets": "111,178",
+                        "endColumns": "66,66",
+                        "endOffsets": "173,240"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\harshit\\.gradle\\caches\\transforms-2\\files-2.1\\7c88890b0ef13255792e73e3f6492eb1\\appcompat-1.2.0\\res\\values-port\\values-port.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "55",
+                        "endOffsets": "106"
+                    }
+                }
+            ]
+        }
+    ]
+}

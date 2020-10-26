@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  ~   Copyright (C) 2015. Kumaresan Rajeswaran
+  ~
+  ~   Licensed under the Apache License, Version 2.0 (the "License");
+  ~   you may not use this file except in compliance with the License.
+  ~   You may obtain a copy of the License at
+  ~
+  ~   http://www.apache.org/licenses/LICENSE-2.0
+  ~
+  ~   Unless required by applicable law or agreed to in writing, software
+  ~   distributed under the License is distributed on an "AS IS" BASIS,
+  ~   WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  ~   See the License for the specific language governing permissions and
+  ~   limitations under the License.
+  ~
+  -->
+
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+    <SwitchPreference
+        android:key="@string/pref_rotation_enabled_key"
+        android:title="@string/pref_rotation_enabled_title"
+        android:summary="@string/pref_rotation_enabled_summary"
+        android:defaultValue="true"
+        />
+
+    <SwitchPreference
+        android:key="@string/pref_statusbar_enabled_key"
+        android:title="@string/pref_statusbar_enabled_title"
+        android:summary="@string/pref_statusbar_enabled_summary"
+        android:defaultValue="true"
+        />
+
+    <ListPreference
+        android:key="@string/pref_icon_theme_key"
+        android:title="@string/pref_icon_theme_title"
+        android:dialogTitle="@string/pref_icon_theme_title"
+        android:summary="@string/pref_icon_theme_summary"
+        android:entries="@array/pref_icon_theme_entries"
+        android:entryValues="@array/pref_icon_theme_values"
+        />
+
+    <Preference
+        android:key="@string/pref_about"
+        android:title="@string/pref_about_title"
+        android:summary="@string/pref_about_summary"
+        />
+</PreferenceScreen>

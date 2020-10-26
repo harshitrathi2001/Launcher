@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Launcher\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-sw720dp-port-v13\\values-sw720dp-port-v13.xml",
+            "map": [
+                {
+                    "source": "C:\\Launcher\\app\\src\\main\\res\\values-sw720dp-port\\dimens.xml",
+                    "from": {
+                        "startLines": "24,23,19,18",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "1012,968,775,711",
+                        "endColumns": "61,42,65,62",
+                        "endOffsets": "1069,1006,836,769"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,117,160,226",
+                        "endColumns": "61,42,65,62",
+                        "endOffsets": "112,155,221,284"
+                    }
+                }
+            ]
+        }
+    ]
+}

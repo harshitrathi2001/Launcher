@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Launcher\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-sw340dp-v13\\values-sw340dp-v13.xml",
+            "map": [
+                {
+                    "source": "C:\\Launcher\\app\\src\\main\\res\\values-sw340dp\\dimens.xml",
+                    "from": {
+                        "startLines": "20,21",
+                        "startColumns": "4,4",
+                        "startOffsets": "765,822",
+                        "endColumns": "55,52",
+                        "endOffsets": "816,870"
+                    },
+                    "to": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,111",
+                        "endColumns": "55,52",
+                        "endOffsets": "106,159"
+                    }
+                }
+            ]
+        }
+    ]
+}

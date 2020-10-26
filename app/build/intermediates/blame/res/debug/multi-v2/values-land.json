@@ -1,0 +1,79 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Launcher\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-land\\values-land.xml",
+            "map": [
+                {
+                    "source": "C:\\Launcher\\app\\src\\main\\res\\values-land\\config.xml",
+                    "from": {
+                        "startLines": "19",
+                        "startColumns": "4",
+                        "startOffsets": "791",
+                        "endColumns": "64",
+                        "endOffsets": "851"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "64",
+                        "endOffsets": "115"
+                    }
+                },
+                {
+                    "source": "C:\\Launcher\\app\\src\\main\\res\\values-land\\dimens.xml",
+                    "from": {
+                        "startLines": "23,20,19,18,24,25",
+                        "startColumns": "4,4,4,4,4,4",
+                        "startOffsets": "931,842,775,711,977,1045",
+                        "endColumns": "44,61,65,62,66,66",
+                        "endOffsets": "971,899,836,769,1039,1107"
+                    },
+                    "to": {
+                        "startLines": "6,7,8,9,10,11",
+                        "startColumns": "4,4,4,4,4,4",
+                        "startOffsets": "329,374,436,502,565,632",
+                        "endColumns": "44,61,65,62,66,66",
+                        "endOffsets": "369,431,497,560,627,694"
+                    }
+                },
+                {
+                    "source": "C:\\Launcher\\app\\src\\main\\res\\values-land\\styles.xml",
+                    "from": {
+                        "startLines": "22",
+                        "startColumns": "4",
+                        "startOffsets": "766",
+                        "endLines": "29",
+                        "endColumns": "12",
+                        "endOffsets": "1315"
+                    },
+                    "to": {
+                        "startLines": "12",
+                        "startColumns": "4",
+                        "startOffsets": "699",
+                        "endLines": "19",
+                        "endColumns": "12",
+                        "endOffsets": "1241"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\harshit\\.gradle\\caches\\transforms-2\\files-2.1\\7c88890b0ef13255792e73e3f6492eb1\\appcompat-1.2.0\\res\\values-land\\values-land.xml",
+                    "from": {
+                        "startLines": "2,3,4",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,125,196",
+                        "endColumns": "69,70,67",
+                        "endOffsets": "120,191,259"
+                    },
+                    "to": {
+                        "startLines": "3,4,5",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "120,190,261",
+                        "endColumns": "69,70,67",
+                        "endOffsets": "185,256,324"
+                    }
+                }
+            ]
+        }
+    ]
+}

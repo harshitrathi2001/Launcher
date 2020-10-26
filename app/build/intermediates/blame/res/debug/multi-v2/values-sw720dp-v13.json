@@ -1,0 +1,62 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Launcher\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-sw720dp-v13\\values-sw720dp-v13.xml",
+            "map": [
+                {
+                    "source": "C:\\Launcher\\app\\src\\main\\res\\values-sw720dp\\config.xml",
+                    "from": {
+                        "startLines": "18,27,19,23",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "681,1084,728,907",
+                        "endColumns": "45,64,44,75",
+                        "endOffsets": "722,1144,768,978"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,10",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,101,166,476",
+                        "endColumns": "45,64,44,75",
+                        "endOffsets": "96,161,206,547"
+                    }
+                },
+                {
+                    "source": "C:\\Launcher\\app\\src\\main\\res\\values-sw720dp\\dimens.xml",
+                    "from": {
+                        "startLines": "17,25,26,21,20",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "693,1059,1106,819,755",
+                        "endColumns": "44,45,45,64,62",
+                        "endOffsets": "733,1100,1147,879,813"
+                    },
+                    "to": {
+                        "startLines": "5,6,7,8,9",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "211,256,302,348,413",
+                        "endColumns": "44,45,45,64,62",
+                        "endOffsets": "251,297,343,408,471"
+                    }
+                },
+                {
+                    "source": "C:\\Launcher\\app\\src\\main\\res\\values-sw720dp\\styles.xml",
+                    "from": {
+                        "startLines": "21",
+                        "startColumns": "4",
+                        "startOffsets": "682",
+                        "endLines": "28",
+                        "endColumns": "12",
+                        "endOffsets": "1077"
+                    },
+                    "to": {
+                        "startLines": "11",
+                        "startColumns": "4",
+                        "startOffsets": "552",
+                        "endLines": "18",
+                        "endColumns": "12",
+                        "endOffsets": "940"
+                    }
+                }
+            ]
+        }
+    ]
+}
